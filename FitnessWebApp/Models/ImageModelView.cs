@@ -8,7 +8,6 @@ namespace FitnessWebApp.Models
 {
     public class ImageModelView
     {
-        
         public IFormFile ImageFile { get; set; }
     }
 }
